@@ -46,7 +46,7 @@ body {
 }
 
 .calci-grid .btn:hover {
-    background-color: bisque;
+    background-color: #DEB887;
 }
 
 .span-two {
@@ -66,7 +66,7 @@ body {
 }
 
 .main1:hover {
-    background-color: hsl(224, 28%, 35%);
+    background-color: #4682B4;
 }
 
 .main2 {
@@ -82,7 +82,7 @@ body {
 }
 
 .main2:hover {
-    background-color: hsl(6, 70%, 34%);
+    background-color: #F4C2C2;
 }
 
 .output {
@@ -110,12 +110,3 @@ body {
     font-size: 2.5rem;
 }
 
-
-/* Mobile changes */
-
-@media only screen and (max-device-width: 500px) {
-
-    .calci-grid {
-        margin: 0 auto;
-    }
-}
