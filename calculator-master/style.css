@@ -66,11 +66,11 @@ body {
 }
 
 .main1:hover {
-    background-color: #1d6fb1;
+    background-color: #3e88c4;
 }
 /* for del */
 .main2 {
-    background-color: hsl(6, 74%, 40%);
+    background-color: hsl(6, 74%, 46%);
     border-radius: 12px;
     margin: 10% 5%;
     color: white;
@@ -78,17 +78,17 @@ body {
     border: 1.2px;
     font-size: 1.5rem;
     font-weight: bolder;
-    box-shadow: 2px 4px hsl(6, 88%, 29%);
+    box-shadow: 2px 4px hsl(6, 91%, 29%);
 }
 
 .main2:hover {
-    background-color: #9a0d0d;
+    background-color: #b62222;
 }
 /* for output screen */
 .output {
     grid-column: 1/-1;
-    background-color: hsl(224, 36%, 15%);
-    color: white;
+    background-color: hsl(223, 37%, 19%);
+    color: rgb(246, 237, 237);
     border-radius: 12px;
     display: flex;
     flex-direction: column;
@@ -101,7 +101,7 @@ body {
 }
 
 .output .prev-op {
-    color: grey;
+    color: rgb(119, 117, 117);
     font-size: 1.5rem;
 }
 
